@@ -4,7 +4,7 @@ library(ggthemes)
 library(dplyr)
 
 # Set working directory
-dir <- '/Users/antony/Desktop/UoL/Programming for Data Science/Week 7'
+dir <- ''
 setwd(dir)
 
 # Read the Titanic dataset
