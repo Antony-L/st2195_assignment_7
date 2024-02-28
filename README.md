@@ -41,6 +41,6 @@ Interestingly, when considering the interaction between variables, certain demog
 
 Overall, these findings provide valuable insights into the dynamics of survival on the Titanic, underscoring the importance of considering multiple variables in the analysis.
 
-### Note:
+## Note:
 
 Ensure that the necessary R packages, especially ggplot, are installed before running the script.
